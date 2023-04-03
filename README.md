@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Leterraa
 - 👀 I’m interested in gaming and football
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on my brain in learning first T_T
+- 🌱 I’m currently learning html,css,javascript. 
+- 💞️ I’m looking to new opportunities.
 - 📫 How to reach me lerateplinskayaa@gmail.com
 
 <!---
